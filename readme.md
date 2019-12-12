@@ -8,41 +8,41 @@ or external webservices.
 
 1. System prerequisites
  
- ==> MacOS oder Linux (windows can be used only limited due to missing linux shell commands)
- ==> Python 2.7.x
- ==> Nmap (https://nmap.org/download)
+ - MacOS oder Linux (windows can be used only limited due to missing linux shell commands)
+ - Python 2.7.x
+ - Nmap (https://nmap.org/download)
  
  Python integrated modules:
  
- ==> urllib
- ==> sys
- ==> platform (OS detection for nmap scan)
+ - urllib
+ - sys
+ - platform (OS detection for nmap scan)
 
  External python modules:
  
- ==> shell (https://pypi.org/project/shell/)
- ==> dnsdumpster (https://github.com/PaulSec/API-dnsdumpster.com)
- ==> spam-list (https://pypi.org/project/spam-lists/)
- ==> beautifulsoup4 (https://pypi.org/project/beautifulsoup4/)
- ==> geopy (https://geopy.readthedocs.io/en/latest/)
- ==> crtsh ()
+ - shell (https://pypi.org/project/shell/)
+ - dnsdumpster (https://github.com/PaulSec/API-dnsdumpster.com)
+ - spam-list (https://pypi.org/project/spam-lists/)
+ - beautifulsoup4 (https://pypi.org/project/beautifulsoup4/)
+ - geopy (https://geopy.readthedocs.io/en/latest/)
+ - crtsh ()
  
  Own python modules:
  
- ==> asn_tool
- ==> clean_html
- ==> cn_fw
- ==> ddumpster
- ==> dnssec
- ==> freemail
- ==> ip_history
- ==> response_time
- ==> reverse_ip
- ==> reverse_whois
- ==> spam_db_lookup
- ==> whois
- ==> reverse_mx_lookup
- ==> reverse_ns_lookup
+ - asn_tool
+ - clean_html
+ - cn_fw
+ - ddumpster
+ - dnssec
+ - freemail
+ - ip_history
+ - response_time
+ - reverse_ip
+ - reverse_whois
+ - spam_db_lookup
+ - whois
+ - reverse_mx_lookup
+ - reverse_ns_lookup
  
 2. Installation
  
