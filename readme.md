@@ -111,3 +111,4 @@ After the end of the check you can prompt for another check or exit the program.
   - the nmap checks can be used with OSX and linux. The tool performs
     an automatic OS detection
   - the vulnerability scan can run up to 10 minutes
+  
