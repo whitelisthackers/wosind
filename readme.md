@@ -1,5 +1,6 @@
 Readme for "wosind.py"
 
+This software is licensed under GPL(GNU GPLv3).
 
 This tool combines a lot of possibilties of OpenSource Intelligence.
 The tool uses local shell commands, like ping, host ... and external resources as nmap
@@ -79,9 +80,9 @@ or external webservices.
         11 - Chinese firewall test (2)
         12 - Free Email Checkup (2)
         13 - IP history for a domain (2)
-        14 - ASN search for a IP
+        14 - ASN search for a IP (7)
         15 - Reverse DNS (local host call) (2)
-        16 - Spam DB lookup
+        16 - Spam DB lookup (8)
         17 - NsLookUp Type=any (1)
         18 - NsLookUp Type=soa|a|cname|ptr|mx (1)
         19 - Portscan with local installed "nmap" (nmap -v <IP|Domain>) - Script must be started as SUDO -
@@ -100,6 +101,8 @@ or external webservices.
         (4) using external service from https://api.macvendors.com
         (5) using external service from https://crt.sh
         (6) using external service fromhttps://geoip.maxmind.com
+        (7) using external service from https://api.iptoasn.com
+        (8) using external service from https://www.spamhaus.org/dbl/  
         
 Enter the number own the test you want perform        
         
