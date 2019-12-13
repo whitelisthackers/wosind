@@ -1,7 +1,7 @@
 #/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Release vom 17.10.2019 by t.ewert@wlh.io
+# version 2.2
 
 # Fremd Module:
 import sys
